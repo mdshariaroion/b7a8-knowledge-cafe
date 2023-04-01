@@ -1,0 +1,38 @@
+[
+  {
+    "id": "01",
+    "Author_name": "Mr. Raju",
+    "Author_image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8ZmFjZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+    "Blog_title": "ChatGPT is an artificial-intelligence chatbot developed by OpenAI and launched in November 2022",
+    "Blog_image": "https://img.olhardigital.com.br/wp-content/uploads/2023/01/chatgpt_assistente.jpg",
+    "Read_time": 5,
+    "Publish_Date": "Mar 14 (7 Days ago)"
+  },
+  {
+    "id": "02",
+    "Author_name": "Mrs Tom",
+    "Author_image": "https://images.unsplash.com/photo-1557296387-5358ad7997bb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=457&q=80",
+    "Blog_title": "OpenAI is an American artificial intelligence research laboratory consisting of the non-profit OpenAI Incorporated.",
+    "Blog_image": "https://images.unsplash.com/photo-1679403766665-67ed6cd2df30?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8b3BlbiUyMGFpfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "Read_time": 10,
+    "Publish_Date": "Mar 17 (10 Days ago)"
+  },
+  {
+    "id": "03",
+    "Author_name": "Mr. Edward",
+    "Author_image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGZhY2V8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+    "Blog_title": "Bard can outline your blog post about summer mocktail recipes",
+    "Blog_image": "https://i.blogs.es/7b41f4/google-bard/1366_2000.jpeg",
+    "Read_time": 15,
+    "Publish_Date": "Mar 04 (14 Days ago)"
+  },
+  {
+    "id": "04",
+    "Author_name": "Mrs. Angle",
+    "Author_image": "https://images.unsplash.com/photo-1542206395-9feb3edaa68d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80",
+    "Blog_title": "GitLab Inc. is an open-core company that operates GitLab, a DevOps software package which can develop, secure, and operate software",
+    "Blog_image": "https://images.unsplash.com/photo-1531030874896-fdef6826f2f7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8Z2l0aHVifGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "Read_time": 25,
+    "Publish_Date": "Mar 20 (2 Days ago)"
+  }
+]
